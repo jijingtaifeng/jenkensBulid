@@ -1,0 +1,13 @@
+<resources>
+
+    <declare-styleable name="CocoView">
+        <attr name="height" format="dimension"></attr>
+        <attr name="first_width" format="dimension"></attr>
+        <attr name="second_width" format="dimension"></attr>
+        <attr name="offset_width" format="dimension"></attr>
+        <attr name="first_color" format="color"></attr>
+        <attr name="second_color" format="color"></attr>
+        <attr name="canvas_color" format="color"></attr>
+    </declare-styleable>
+
+</resources>
